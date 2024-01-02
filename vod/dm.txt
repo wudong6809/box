@@ -492,45 +492,29 @@ CHC高清㊣版,http://171.110.42.48:8181/tsfile/live/1017_1.m3u8
 译制国语✔原,http://maomao.kandiantv.cn/douyu1.php?id=2436390
 绍兴影院✪另,http://live.shaoxing.com.cn/video/s10001-sxtv3/index.m3u8
 
-🎬HBO 🌹星,#genre#
-HOB,http://brtv2021.top:8080/Fuyjhhg435/GgQZgpNZjF/10626
-HBO,http://208.115.225.174:14165
-HBO 2,http://208.115.225.174:14140
-HBO Mundi,http://208.115.225.174:14148
-HBO signature,http://208.115.225.174:14160
-WB TV,http://208.115.225.174:14132
-HBO,http://15.235.10.31:14378
-HBO,http://15.235.10.31:14379
-HBO,http://15.235.10.31:14380
-HBO2,http://15.235.10.31:14381
-HBO2,http://15.235.10.31:14382
-HBO2,http://15.235.10.31:14383
-HBO2,http://15.235.10.31:14384
-HBO Mundi,http://15.235.10.31:14385
-HBO Family,http://15.235.10.31:14386
-HBO Family,http://15.235.10.31:14387
-HBO Family,http://15.235.10.31:14388
-@EXM3U,http://15.235.10.31:14389
-Space BR,http://15.235.10.31:14390
-HBO Mundi,http://15.235.10.31:14392
-HBO Mundi,http://15.235.10.31:14393
-HBO Mundi,http://15.235.10.31:14394
-HBO Mundi,http://15.235.10.31:14395
-HBO Pop,http://15.235.10.31:14396
-HBO Pop,http://15.235.10.31:14397
-HBO Pop,http://15.235.10.31:14398
-HBO Pop,http://15.235.10.31:14399
-HBO Signature,http://15.235.10.31:14400
-HBO Signature,http://15.235.10.31:14401
-HBO Signature,http://15.235.10.31:14402
-HBO Signature,http://15.235.10.31:14403
-HBO Xtreme,http://15.235.10.31:14405
-HBO Xtreme,http://15.235.10.31:14406
-HBO Xtreme,http://15.235.10.31:14407
-HBO+,http://15.235.10.31:14408
-HBO+,http://15.235.10.31:14409
-HBO+,http://15.235.10.31:14410
-HBO+,http://15.235.10.31:14411
+德云社🌹星,#genre#
+30周年相声专场上海站,2019,https://new-video-xz.004307.com/20190813/V4ooPCQl/index.m3u8
+30周年相声专场哈尔滨,https://new-video-xz.004307.com/20191001/yUcVvMFX/index.m3u8
+30周年相声专场青岛站,https://new-video-xz.004307.com/20191113/V7yuRIoB/index.m3u8
+30周年相声专场南宁站,https://new-video-xz.004307.com/20191231/rtyu7nAe/index.m3u8
+30周年相声专场北展站,https://new-video-xz.004307.com/20191202/LtLmZEjU/index.m3u8
+30周年相声专场济南站,https://new-video-xz.004307.com/20191014/4vX5w29W/index.m3u8
+30周年相声专场沈阳站,https://new-video-xz.004307.com/20191009/ssMvkAoC/index.m3u8
+孟鹤堂周九良相声专场,https://new-video-xz.004307.com/20190806/47o6JwMl/index.m3u8
+吉林站第01期,https://new-video-xz.004307.com/20210201/QDiDNv9x/index.m3u8
+吉林站第02期,https://new-video-xz.004307.com/20210201/IO9Yle5h/index.m3u8
+吉林站第03期,https://new-video-xz.004307.com/20210201/qPW5MKj8/index.m3u8
+吉林站第04期,https://new-video-xz.004307.com/20210201/1HPayfL8/index.m3u8
+吉林站第05期,https://new-video-xz.004307.com/20210201/3nbblGjr/index.m3u8
+吉林站第06期,https://new-video-xz.004307.com/20210201/Vd8yp0G7/index.m3u8
+吉林站第07期,https://new-video-xz.004307.com/20210201/f6v27psZ/index.m3u8
+2022三里屯01,https://new-video-xz.004307.com/20220524/OWFlZTE5Nm/140248/480/hls/encrypt/index.m3u8
+2022三里屯02,https://new-video-xz.004307.com/20220524/NzJmYzcxOD/135020/480/hls/encrypt/index.m3u8
+2022三里屯03,https://new-video-xz.004307.com/20220524/ZWM1ZjM0MT/135143/480/hls/encrypt/index.m3u8
+2022三里屯04,https://new-video-xz.004307.com/20220524/MmNiMGU5Yj/134825/480/hls/encrypt/index.m3u8
+2022三里屯05,https://new-video-xz.004307.com/20220524/NzdlN2ExYj/134610/480/hls/encrypt/index.m3u8
+2022三里屯06,https://new-video-xz.004307.com/20220524/ZGQwZWZhND/134739/480/hls/encrypt/index.m3u8
+2022三里屯07,https://new-video-xz.004307.com/20220524/MzI3OTM4ZD/134524/480/hls/encrypt/index.m3u8
 
 🎬影院 🌹高,#genre#
 余杭影院频道,http://hzdx.chiang.fun:3333/tsfile/live/1018_1.m3u8
