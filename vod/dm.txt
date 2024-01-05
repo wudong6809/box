@@ -186,7 +186,7 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 
 🐸台蛙 🌹视,#genre#
 华视新闻,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
-Peppa Pig,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
+Peppa Pig1,https://ytm2.yuanhsing.cf/PeppaPig.m3u8
 Lion Family,https://ytm2.yuanhsing.cf/LionFamily.m3u8
 Lion Family English,https://ytm2.yuanhsing.cf/LionFamily2.m3u8
 Masha and the Bear,https://ytm2.yuanhsing.cf/MashaandtheBear.m3u8
