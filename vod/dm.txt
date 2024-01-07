@@ -146,7 +146,11 @@ CCTV-15,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/50000
 东方卫视,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000035/index.m3u8
 北京卫视,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000033/index.m3u8
 安徽卫视,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000031/index.m3u8
-安徽卫视,
+延边卫视,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000209/index.m3u8
+大湾区卫视,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000208/index.m3u8
+兵团卫视,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000210/index.m3u8
+康巴卫视,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000211/index.m3u8
+三沙卫视,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000214/index.m3u8
  中学生,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000167/index.m3u8
 汽摩频道,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000169/index.m3u8
 国学频道,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/5000000188800000170/index.m3u8
@@ -224,18 +228,34 @@ CNA频道,http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/
 
 🐸台蛙 🌹视,#genre#
 
+中天新闻,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,https://ytm2.yuanhsing.cf/ctitv.m3u8
+中天亚洲,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+
+华视剧场,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视剧场,https://ytm2.yuanhsing.cf/ctsprog.m3u8
 华视SHOW,https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
 东森新闻,https://ytm2.yuanhsing.cf/newsebc.m3u8
+东森财经,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
 东森财经,https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,https://ytm2.yuanhsing.cf/TVBSNEWS01.m3u8
+民视新闻,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+寰宇新闻 ,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
 寰宇新闻 ,https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+台视新闻,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 台视新闻,https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+三立新闻,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
 中视新闻,https://ytm2.yuanhsing.cf/twctvnews.m3u8
+凤凰资讯,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人台,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 番薯音乐,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
 三立都会,https://sanlihalive1-a.akamaihd.net/4c3bb0ccad574d0e9b507c2dcd2dfabc/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678487~exp=9007200919419478~acl=/4c3bb0ccad574d0e9b507c2dcd2dfabc/*/profile_0/chunklist.m3u8*~hmac=1a3986bd8fb660eacbcc9954c67fb674fa810779ddc2fab5fa77188868ca3686
 三立台湾,https://sanlihalive1-a.akamaihd.net/5ffd3a166f7241d9b489b7d7241db96f/ap-northeast-1/4338955585001/profile_0/chunklist.m3u8?hdnea=st=1664678506~exp=9007200919419497~acl=/5ffd3a166f7241d9b489b7d7241db96f/*/profile_0/chunklist.m3u8*~hmac=cfd432e7da8eece68fe4a4da3a3bc08ab1bbc50b147a84c95ae3d4a569e932b1
+MOMO01,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+MOMO02,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+幸福人生,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+ DW ,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
 ARIRANG K-POP,https://ytm2.yuanhsing.cf/arirangworld.m3u8
 ALL THE K-POP,https://ytm2.yuanhsing.cf/ALLTHEKPOP.m3u8
 The K-POP,https://ytm2.yuanhsing.cf/TheKPOP.m3u8
@@ -374,6 +394,7 @@ Formosa TV Dramas,https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
 贵州卫视,https://video.lzjtu.edu.cn/liverespath/11e39871ee899ed6c7bddadb1c83cbd658562297/index.m3u8
 甘肃卫视,https://video.lzjtu.edu.cn/liverespath/975463fd39229112f75925af024d6ed11de84a0e/index.m3u8
 内蒙古台,https://video.lzjtu.edu.cn/liverespath/5a601b122fcaacb6480b65cb74ee8f76347020d6/index.m3u8
+内蒙动作,http://111.56.120.90/wh7f454c46tw2157147165_-1648754093/050000001888/5000000188800000190/index.m3u8
 辽宁卫视,https://video.lzjtu.edu.cn/liverespath/73aedb8ffd21b3b8afe4664591d4cb3a5cced827/index.m3u8
 黑龙江台,https://video.lzjtu.edu.cn/liverespath/fe1745c7599e85d0a34fa0ad3986ef25c2ed7c6f/index.m3u8
 青海卫视,https://video.lzjtu.edu.cn/liverespath/468aa6e90a67946eeb0e862e4b9f2764ee13cc75/index.m3u8
