@@ -629,6 +629,8 @@ cztvcloud.com/channels/lantian/SXlongyou2/720p.m3u8?zzhed\陕西｜咸阳,http:/
 中天新闻,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天新闻,https://ytm2.yuanhsing.cf/ctitv.m3u8
 中天亚洲,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
+镜新闻,https://epg.pw/stream/495154de63dcea2a3028c43323b8c41fcba189c3de87d1d8232e7edd6b5e9856.m3u8
+镜新闻,http://tv.redrainl.site:9500/live.m3u8?c=28
 镜新闻,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
 华视剧场,https://ghproxy.net/https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 华视剧场,https://ytm2.yuanhsing.cf/ctsprog.m3u8
