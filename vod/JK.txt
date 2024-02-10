@@ -150,16 +150,12 @@
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
 "ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/HW.json","spider":""},
 
-{"key": "影视杂剧",
-"name": "🌹 影视杂剧","type": 3,
+{"key": "影视解说",
+"name": "🌹 影视解说","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
 "ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/DY.json","spider":""},
 
 
-{"key": "哔哩哔哩",
-"name": "🌹️哔哩哔哩","type": 3,
-"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": "http://52bsj.vip:81/api/v3/file/get/40350/%E6%96%B0%E5%93%94%E5%93%A9.json?sign=QazybKXwzmWoHOgB7KqgvRUZa7lYsZEsGRxUkCPQXmY%3D%3A0","spider":""},
 
 {"key": "全国美食",
 "name": " 🌹 全国美食","type": 3,
