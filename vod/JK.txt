@@ -1,7 +1,6 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。
-
 {
-	"spider": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
+	"spider": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod//Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -79,18 +78,18 @@
 "quickSearch":1,
 "filterable":0,
 "categories":["大陆综艺","台湾剧","国产剧","香港剧","战争片","喜剧片","动作片","剧情片","恐怖片"]},
-  {"key":"drpy_js_360影视","name":"🌹官源 | 360","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/360影视.js"},
-{"key":"drpy_js_爱奇艺","name":"🌹官源 | 爱奇艺","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/百忙无果.js"},
-{"key":"drpy_js_优酷","name":"🌹官源 | 优酷","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/优酷.js"},
-{"key":"drpy_js_348电影网","name":"🌹官源 | 348电影","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/348电影网.js"},
+  {"key":"drpy_js_360影视","name":"🌹官源 | 360","type":3,"api":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/360影视.js"},
+{"key":"drpy_js_爱奇艺","name":"🌹官源 | 爱奇艺","type":3,"api":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/百忙无果.js"},
+{"key":"drpy_js_优酷","name":"🌹官源 | 优酷","type":3,"api":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/优酷.js"},
+{"key":"drpy_js_348电影网","name":"🌹官源 | 348电影","type":3,"api":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/348电影网.js"},
 
 
 
-{"key":"drpy_js_腾讯","name":"🌹官源 | 腾讯","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/腾云驾雾.js"},
-{"key":"drpy_js_芒果","name":"🌹官源 | 芒果","type":3,"api":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/百忙无果.js"},
+{"key":"drpy_js_腾讯","name":"🌹官源 | 腾讯","type":3,"api":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/腾云驾雾.js"},
+{"key":"drpy_js_芒果","name":"🌹官源 | 芒果","type":3,"api":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/百忙无果.js"},
 {
 "key":"drpy_js_搜狗","name":"🌹官源 | 搜狗","type":3,
-"api":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/%E6%90%9C%E7%8B%97.js"},
+"api":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/%E6%90%9C%E7%8B%97.js"},
   
   {"key": "1080资源", 
      "name":"🌹1080资源", 
@@ -107,73 +106,73 @@
  
 {
 "key":"drpy_js_农民","name":"🌹农民 | 影视","type":3,
-"api":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/农民影视.js"},
+"api":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/农民影视.js"},
 
 
 {
 "key":"drpy_js_米爱","name":"🌹米爱 | 影视","type":3,
-"api":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/米爱影视.js"},
+"api":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/libs/drpy2.min.js","ext":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/yingshi/main/js/米爱影视.js"},
 
 
 
 {"key": "音乐MTⅤ",
 "name": " 🌹音乐MTV","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/MTV.json","spider":""},
+"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/MTV.json","spider":""},
 
 {"key": "演唱现场","name": " 🌹 演唱现场","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/YCH.json","spider":""},
+"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/YCH.json","spider":""},
 
 {"key": "小品相声",
 "name": "🌹️ 小品相声","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/XS.json","spider":""},
+"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/XS.json","spider":""},
 
 
 
 {"key": "戏曲大全",
 "name": "🌹 戏曲大全","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/XQ.json","spider":""},
+"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/XQ.json","spider":""},
 
 
 
 {"key": "琴弦乐器",
 "name": "🌹 琴弦乐器","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/YQ.json","spider":""},
+"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/YQ.json","spider":""},
 
 
 
 {"key": "户外运动",
 "name": "🌹户外运动","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/HW.json","spider":""},
+"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/HW.json","spider":""},
 
 {"key": "影视解说",
 "name": "🌹 影视解说","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/DY.json","spider":""},
+"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/DY.json","spider":""},
 
 
 
 {"key": "全国美食",
 "name": " 🌹 全国美食","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/MS.json","spider":""},
+"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/MS.json","spider":""},
 
 {"key": "各路棋牌",
 "name": " 🌹各路棋牌","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": "https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/QP.json","spider":""},
+"ext": "https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/QP.json","spider":""},
 
 {
-"key": "为你舞蹈","name": "🌹为你舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/WD.json","spider":""},
+"key": "为你舞蹈","name": "🌹为你舞蹈","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/WD.json","spider":""},
 
 {"key": "春节杂谈",
 "name": "🌹 春节杂谈","type": 3,
 "api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,
-"ext": " https://pub-c99f67c9a08d402bba9bc0b49b58b36d.r2.dev/tvyuan/CJ.json","spider":""},
+"ext": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/CJ.json","spider":""},
 
     
 {"key":"OXS",
@@ -1102,7 +1101,7 @@ https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
 {"name":"夜幕嗅探","type":0,"url":"https://www.yemu.xyz/?url="}],
 
 //===========解析完成==================================
-   "lives":[{"name":"live","type":0,"url":"https://ghproxy.net/https://raw.githubusercontent.com/wudong6809/box/main/vod/dm.txt","playerType":1,"ua":"okhttp/3.15","epg":"http://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"}],
+   "lives":[{"name":"live","type":0,"url":"https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/dm.txt","playerType":1,"ua":"okhttp/3.15","epg":"https://epg.112114.eu.org/?ch={name}&date={date}","logo":"https://epg.112114.eu.org/logo/{name}.png"}],
    "doh":[{"name":"Google","url":"https://dns.google/dns-query","ips":["8.8.4.4","8.8.8.8"]},{"name":"Cloudflare","url":"https://cloudflare-dns.com/dns-query","ips":["1.1.1.1","1.0.0.1","2606:4700:4700::1111","2606:4700:4700::1001"]},{"name":"AdGuard","url":"https://dns.adguard.com/dns-query","ips":["94.140.14.140","94.140.14.141"]},{"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},{"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}],
    "rules":[{"name":"wp","hosts":["vip.123pan.cn","rescdn.wuxivlog.cn"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:20.840000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:10.120000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+"]},{"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},{"name":"阳图","hosts":["jx.yangtu.top"],"regex":["download4.caiyun.feixin.10086.cn","/servlet/"]},{"name":"廣告","hosts":["."],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.433333,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:7.680000,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:6.666667,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:15,[\\s\\S]*?#EXT-X-DISCONTINUITY","#EXTINF.*?\\s+.*?1o.*?\\.ts\\s+","#EXTINF.*?\\s+.*?muguacdn.*?\\.ts\\s+"]},{"name":"hwk","hosts":["haiwaikan"],"regex":["10.0099","10.3333","16.0599","8.1748","10.85"]},{"name":"yqk","hosts":["yqk88"],"regex":["18.4","15.1666"]},{"name":"sn","hosts":["suonizy"],"regex":["15.1666","15.2666"]},{"name":"bf","hosts":["bfzy"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:3,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"xx","hosts":["aws.ulivetv.net"],"regex":["#EXT-X-DISCONTINUITY\\r*\\n*#EXTINF:8,[\\s\\S]*?#EXT-X-DISCONTINUITY"]},{"name":"lz","hosts":["vip.lz","hd.lz","v.cdnlz1","v.cdnlz"],"regex":["18.5333"]},{"name":"非凡","hosts":["vip.ffzy","hd.ffzy"],"regex":["25.0666"]},{"name":"hs","hosts":["huoshan.com"],"regex":["item_id="]},{"name":"dy","hosts":["douyin.com"],"regex":["is_play_url="]},{"name":"nm","hosts":["toutiaovod.com"],"regex":["video/tos/cn"]},{"name":"cl","hosts":["magnet"],"regex":["最 新","直 播","更 新"]}],
    "flags":["youku","qq","QQ","iqiyi","qiyi","letv","sohu","tudou","pptv","PPTV","mgtv","ltnb","rx","SLYS4k","BYGA","BYGB","luanzi","dxzy","QEYSS","aliyun","AliS","122","chuangying","CL4K","xfyun","wuduzy","wasu","bilibili","renrenmi","xmm","xigua","m1905","funshion","bfzym3u8","暴风","优酷","芒果","腾讯","爱奇艺","奇艺","哔哩哔哩","哔哩","西瓜视频","腾讯视频","奇艺视频","优酷视频","芒果视频","乐视视频","FY","fy","FeiYun","feiyun","飞云"],
