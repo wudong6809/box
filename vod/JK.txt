@@ -1,7 +1,7 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。
 
 {
-	"spider": " https://bt.wudong7366.eu.org/tvyuan/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
+	"spider": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
