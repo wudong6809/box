@@ -882,6 +882,16 @@ https://91md.me/api.php/provide/vod",
 "quickSearch":1,
 "filterable":0,
 "categories":["麻豆视频","天美传媒","蜜桃传媒","精东影业","大象传媒","开心鬼传媒","糖心Vlog","乌鸦传媒","91探花"]},
+{
+"key":"csp_xml_魔鬼森林",
+"name":"魔鬼森林",
+"type":1,
+"api":"https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
+"playUrl":"",
+"searchable":1,
+"quickSearch":1,
+"filterable":0,
+"categories":["亚洲无码","网红流出","国产色情","日本精品","唯美港姐","人妻熟女","台湾辣妹","女优系列","91探花"]},
 
 
     
