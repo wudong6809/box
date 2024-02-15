@@ -1,6 +1,6 @@
 //以下全部出自网络和大佬资源，如有冒犯请联系删除。
 {
-	"spider": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod//Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
+	"spider": " https://jiasu.wudong.eu.org/https://raw.githubusercontent.com/wudong6809/box/main/vod/Yoursmile.jar;md5;3D8DA9656CC853F5F25D6A1B2389A5B5",
 	"wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
 
 	"sites":[
@@ -886,7 +886,7 @@ https://91md.me/api.php/provide/vod",
 "key":"csp_xml_魔鬼森林",
 "name":"魔鬼森林",
 "type":1,
-"api":"https://beiyong.slapibf.com/api.php/provide/vod/?ac=list",
+"api":"https://slapibf.com/api.php/provide/vod",
 "playUrl":"",
 "searchable":1,
 "quickSearch":1,
