@@ -594,15 +594,21 @@ CCTV-15,http://39.136.34.12/wh7f454c46tw1096093674_1760004349/050000001888/50000
 中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
 中天亚洲,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV13.m3u8
 东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
 民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
-寰宇新闻 ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+TVBS新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
 台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
 华视剧场,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 三立新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立NEWS ,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
 凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 新唐人台,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
 华视剧场,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
 镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+台湾信大,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+台湾天才,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 中天新闻,http://lzoq.71.gay/daili/yg.php?id=cti2
 中天新闻,http://lzoq.71.gay/daili/yg.php?id=cti
 中天新闻,http://50.7.238.114:8278/ctinews/playlist.m3u8?tid=MC3C3915550439155504&ct=19193
